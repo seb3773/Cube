@@ -1,6 +1,14 @@
 # Rotating Cube
+just for fun :p
 
-My go at 3D rendering, this code will render a cube on your terminal.
+forked from https://github.com/dayeya/Cube
+
+-added faces colors, automatic sizing of cube depending of terminal size;  and speed selection.
+
+build: cargo build
+run it:
+cube <speed>
+(for example try: cube 100 )
 
 
 
