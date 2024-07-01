@@ -1,6 +1,7 @@
 // Cube rotation code in rust.
 pub mod vec; 
 use crate::vec::{Vector, Rotation};
+extern crate termion;
 use std::thread;
 use std::time::Duration;
 use std::env;
